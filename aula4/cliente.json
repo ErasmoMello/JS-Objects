@@ -1,0 +1,11 @@
+{
+    "nome": "Carlos",
+    "email": "carlos@nowdeustch.com",
+    "telefone": ["12345678", "87654321"],
+    "endereço": {
+        "rua": "R. Joseph Wilmenn",
+        "numero": 178,
+        "apartamento": true,
+        "complemento": "ap 1008"
+    }
+}
